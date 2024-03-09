@@ -1,0 +1,15 @@
+h1 {
+    color: rgb(124, 169, 12);
+}
+
+.main_text {
+    color: aqua;
+}
+
+.btn {
+    color: aqua;
+    text-decoration: none;
+    font-size: 26px;
+    font-weight: 700;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
